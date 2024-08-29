@@ -115,15 +115,13 @@ Profesor: Mori Paiva, Hugo Allan
          5.2.1.8. [Team Collaboration Insights during Sprint.](#5.2.1.8.)<br>
 6. [Conclusiones](#conclusiones)<br>
 7. [Bibliografía](#bibliografía)<br>
-8. [Anexos](#anexos)
+8. [Anexos](#anexos) <br>
 
    
 # Capítulo I: Introducción <a name ="cap1">
-
 ## 1.1. Startup Profile <a name ="1.1.">
 
 ### 1.1.1. Descripción de la Startup <a name ="1.1.1.">
-
 
 #### 1.1.2. Perfiles de integrantes del equipo <a name ="1.1.2.">
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
@@ -134,10 +132,25 @@ Profesor: Mori Paiva, Hugo Allan
 
 ### 1.2.1 Antecedentes y problemática <a name ="1.2.1.">
 
+Al terminar sus estudios secundarios, varios jóvenes no encuentran maneras para poder seguir con sus estudios en instituciones educativas superiores. En el 2022, solo el 30.9% de jóvenes lograron hacer la transición de estudios secundarios a estudios superiores según la Encuesta Nacional de Hogares (Enaho) realizada por el Instituto Nacional de Estadística e Informática (INEI). Las razones del porqué detrás de esta cifra varían, desde la falta de recursos para pagar por una educación de calidad, los pocos cupos que se ofrecen en programas como PRONABEC o en instituciones de educación superior públicas o hasta por la misma necesidad de trabajar a la hora de egresar del colegio. Esto resulta en la escasez de oportunidades en un futuro para las personas que no puedan acceder a ésta en caso de que quieran buscar un trabajo en el que se requiera de una educación superior para postular (Haleem et al., 2022).
+
+
+A medida que pasa el tiempo, las maneras en las cuales se está educando a cualquier tipo de estudiante han ido cambiando y, a su vez, adaptándose a las nuevas necesidades de nuestra actual era digital. Es así como las computadoras o equipos similares pasaron de ser parte de ciertas clases en la malla curricular a ser indispensables para poder desarrollarse plenamente en el ámbito académico. Este cambio de paradigma en la educación moderna se vio acelerado por la pandemia del COVID-19 a inicios del 2020, en donde se puso en evidencia la importancia por parte de cualquier institución educativa superior de poseer la infraestructura necesaria para seguir brindando clases.  
+
+
+Esta tendencia desembocó en el aumento de alumnos matriculados tanto en cursos masivos abiertos en línea (o mejor conocidos como massive open online courses en inglés) de 300,000 a 220 millones desde 2011 hasta 2019 como en modalidades de aprendizaje a distancia en universidades tradicionales en un 92% en el 2020 (Diaz-Infante et al., 2022). Además, se vieron a gran escala los beneficios de las tecnologías de aprendizaje virtual que van desde la mejora de la interacción de los alumnos con las clases hasta la mejora de acceso a nuevas herramientas de aprendizaje para personas que no tienen los recursos para pagar una educación formal tradicional (Haleem et al., 2022).
+
+
 ### 1.2.2 Lean UX Process. <a name ="1.2.2.">
 #### 1.2.2.1. Lean UX Problem Statements. <a name ="1.2.2.1.">
 
 #### 1.2.2.2. Lean UX Assumptions. <a name ="1.2.2.2.">
+
+| Business Assumptions | User Assumptions |
+| --------------------|-------------------|
+| Creemos que nuestros usuarios tienen la necesidad de aprender nuevos temas académicos de una forma más interactiva y autodidacta. | Los usuarios de este producto son personas que ya hayan acabado sus estudios secundarios y deseen aprender más acerca de un tema en específico de una manera interactiva y personalizada. |
+| Este problema se puede solucionar por medio de métodos de aprendizaje que tengan en cuenta las necesidades y limitaciones de los alumnos. | Nuestro producto podría encajar como un complemento para el aprendizaje diario de nuestros usuarios, dependiendo de su organización de su estudio académico. |
+
 
 
 #### 1.2.2.4. Lean UX Canvas. <a name ="1.2.2.4.">
