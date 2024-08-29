@@ -23,7 +23,7 @@ Profesor: Mori Paiva, Hugo Allan
 
 # Project Report Collaboration Insights
 
-**Commits del Informe TF:**
+**Commits del Informe TB1:**
 
 
 # Student Outcome
@@ -32,8 +32,8 @@ Profesor: Mori Paiva, Hugo Allan
 
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-|-|-|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. |  |    |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia.|  | |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Jorge Orrego: <br> TB1: <br>  |  TB1: <br><br>  |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia.| Jorge Orrego: <br> TB1: <br>  | TB1: <br><br>  |
 
 # Contenido
 
@@ -126,7 +126,7 @@ Profesor: Mori Paiva, Hugo Allan
 #### 1.1.2. Perfiles de integrantes del equipo <a name ="1.1.2.">
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-| 
-|Orrego Noriega, Jorge David | u201921734 |Ingenieria de software |C++, Python, SQL y Java|
+| Orrego Noriega, Jorge David | u201921734 | Ingenieria de software |C++, Python, SQL y Java|
 
 ## 1.2. Solution Profile <a name ="1.2.">
 
@@ -150,8 +150,19 @@ Esta tendencia desembocó en el aumento de alumnos matriculados tanto en cursos 
 | --------------------|-------------------|
 | Creemos que nuestros usuarios tienen la necesidad de aprender nuevos temas académicos de una forma más interactiva y autodidacta. | Los usuarios de este producto son personas que ya hayan acabado sus estudios secundarios y deseen aprender más acerca de un tema en específico de una manera interactiva y personalizada. |
 | Este problema se puede solucionar por medio de métodos de aprendizaje que tengan en cuenta las necesidades y limitaciones de los alumnos. | Nuestro producto podría encajar como un complemento para el aprendizaje diario de nuestros usuarios, dependiendo de su organización de su estudio académico. |
+| Los usuarios serán personas que ya hayan terminado sus estudios secundarios y que deseen aprender más acerca de un tema de manera interactiva y personalizada.| Este producto podrá resolver la falta de conocimiento de nuestros usuarios de cualquier tema que les sea relevante ya sea en su vida profesional o académica. |
+| La propuesta de valor #1 de nuestra plataforma que nuestros clientes quieren aprovechar es la oportunidad de poder manejar su ritmo y avance de aprendizaje.| El producto se podrá utilizar en cualquier horario que el usuario crea conveniente, a excepción de las tutorías. Se podrá acceder a la plataforma desde cualquier computadora que cuente con un navegador web.|
+| Dado que la plataforma cuenta con planes freemium y premium, el usuario podrá optar por obtener más beneficios si es que se suscribe al plan premium como la habilitación de cursos con un nivel de profundidad más avanzado, tutorías personalizadas, etc.| La características más importantes de nuestra plataforma es que pueda ser accedida por cualquier usuario a cualquier hora del día, el poseer un catálogo amplio de cursos de distintos temas y el contar con tutores que puedan complementar el aprendizaje de nuestros usuarios.|
+| Se buscará conseguir la mayoría de nuestros usuarios por medio de márketing digital, además de promocionar nuestros servicios en círculos universitarios o redes sociales.
+| Nuestro producto se tiene que dar a conocer como un complemento al aprendizaje de nuestros usuarios y se debería comportar de tal manera que ayude en el entendimiento de nuevos conocimientos.|
+| Se conseguirán ingresos a través de las suscripciones premium. | |
+| Nuestros competidores principales serán Khan Academy, Platzi y Udemy.| |
+| Los venceremos brindándoles a nuestros usuarios tutorías en vivo con un tutor especializado en tema como complemento a los cursos ofrecidos en la plataforma. | |
+| El mayor riesgo del producto es la disponibilidad de tutores para la cantidad de usuarios que puedan haber.  | |
+| Se solucionará esto con una convocatoria masiva de tutores por medio de redes sociales.| |
+|Un supuesto que en caso se pruebe que sea falso pueda causar que el proyecto falle sería la demanda por los servicios ofrecidos en nuestra plataforma. | |
 
-
+#### 1.2.2.3. Lean UX Hypothesis Statements. <a name ="1.2.2.4.">
 
 #### 1.2.2.4. Lean UX Canvas. <a name ="1.2.2.4.">
 
@@ -365,7 +376,14 @@ Esta tendencia desembocó en el aumento de alumnos matriculados tanto en cursos 
 
 # Bibliografía
 
-**Insertar bibliografía**
+Diaz-Infante, N., Lazar, M., Ram, S., & Ray, A. (2022, July 29). Growth in online education. Are providers ready? McKinsey & Company. https://www.mckinsey.com/industries/education/our-insights/demand-for-online-education-is-growing-are-providers-ready
+
+
+Día Internacional de la Educación: solo el 30.9 % de jóvenes peruanos logró transitar a la educación superior. (2024, 24 enero). SENAJU - Secretaría Nacional de la Juventud. Recuperado 22 de agosto de 2024, de https://juventud.gob.pe/2024/01/dia-internacional-de-la-educacion-solo-el-30-9-de-jovenes-peruanos-logro-transitar-a-la-educacion-superior/ 
+
+
+Haleem, A., Javaid, M., Qadri, M. A., & Suman, R. (2022). Understanding the role of digital technologies in education: A review. Sustainable Operations and Computers, 3, 275–285. https://doi.org/10.1016/J.SUSOC.2022.05.004
+
 
 # Anexos
 
