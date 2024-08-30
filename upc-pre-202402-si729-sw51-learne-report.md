@@ -14,7 +14,7 @@ Profesor: Mori Paiva, Hugo Allan
 - Orrego Noriega, Jorge David - u201921734
 
 
----
+
 # Registro de Versiones del Informe
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
@@ -119,11 +119,13 @@ Profesor: Mori Paiva, Hugo Allan
 
    
 # Capítulo I: Introducción <a name ="cap1">
+
 ## 1.1. Startup Profile <a name ="1.1.">
 
 ### 1.1.1. Descripción de la Startup <a name ="1.1.1.">
 
 #### 1.1.2. Perfiles de integrantes del equipo <a name ="1.1.2.">
+
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-| 
 | Orrego Noriega, Jorge David | u201921734 | Ingenieria de software |C++, Python, SQL y Java|
@@ -149,7 +151,6 @@ Esta tendencia desembocó en el aumento de alumnos matriculados tanto en cursos 
 * ¿Cuándo?: Este problema se puede dar a lo largo de la vida de un estudiante, ya que siempre va a necesitar expandir y actualizar sus conocimientos. 
 * ¿Cómo?: Esta situación es consecuencia tanto de un modelo educativo que no se ha adaptado para el uso eficiente de nuevas tecnologías, como de la falta de promoción de nuevas herramientas virtuales que puedan ayudar con la distribución de la educación a más personas. 
 * ¿Cuánto?: A varias empresas de diferentes rubros les está costando encontrar personal calificado para sus puestos de trabajo, lo cual podría resultar en la disminución de la productividad y hasta pérdidas económicas (Diaz-Infante et al., 2022). 
-
 
 
 ### 1.2.2 Lean UX Process. <a name ="1.2.2.">
@@ -228,7 +229,11 @@ Esta tendencia desembocó en el aumento de alumnos matriculados tanto en cursos 
 
 | Epic/User Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
 |---------------------|--------|-------------|--------------------------|---------------------------|
-|                     |         |            |                          |                           |
+| HU01 |  Registrar nuevo usuario en la plataforma. | Como nuevo usuario quiero registrarme en la aplicación para luego hacer uso de sus servicios. | **Escenario 1:** El usuario se registra como alumno. <br> <br> Dado que soy un nuevo usuario, cuando inicio el formulario de registro, y elijo la opción de registrarme como alumno, entonces la aplicación creará una cuenta de alumno y me redirigirá a la pantalla principal para alumnos. <br> <br> **Escenario 2:** El usuario se registra como profesor. <br> <br> Dado que soy un nuevo usuario, cuando inicio el formulario de registro, y elijo la opción de registrarme como profesor, entonces la aplicación creará una cuenta de profesor y me redirigirá a la pantalla principal para profesores. |         |
+| HU02 |  Buscar nuevos cursos dentro de la plataforma. | Como alumno quiero poder buscar nuevos cursos fácilmente desde la página de inicio de la aplicación para encontrar rápidamente la información que necesite. | **Escenario 1:** El usuario busca contenido por medio de una consulta de búsqueda. <br> <br> Dado que soy un alumno, y me encuentro en la página de inicio de la aplicación luego de haber iniciado sesión, cuando seleccione la barra de búsqueda, y escriba en esta lo que quiera buscar, entonces me redirigirá a una nueva página en la que se muestren los resultados de mi búsqueda. <br> <br> **Escenario 2:**  El usuario busca nuevo contenido por medio de las recomendaciones hechas por la misma aplicación <br> <br> Dado que soy un alumno, y me encuentro en la página principal, cuando me dirija a las recomendaciones personalizadas de la aplicación, entonces podré encontrar contenido que me pueda ser de interés.  |         |
+| HU03 | Ver detalles de un curso | Como alumno quiero poder ver los detalles de un curso en específico para saber con más detalle su contenido y profesores que lo dicten. | **Escenario 1:** El alumno selecciona un curso para ver sus detalles. <br> <br> Dado que soy un alumno, y quiera ver los detalles de un curso en particular, cuando lo seleccione dentro de la aplicación, entonces me dará todos los detalles de este. <br> <br> **Escenario 2:** El alumno ve los detalles de los profesores que complementan el curso. <br> <br> Dado que soy un alumno, y me encuentro en la página principal, cuando me dirija a las recomendaciones personalizadas de la aplicación, entonces podré encontrar contenido que me pueda ser de interés.  |         |
+| HU04 | Inscribirse en un curso. | Como alumno quiero inscribirme en un curso para poder aprender más sobre un tema en específico. | **Escenario 1:** El alumno se inscribe en un curso <br> <br> Dado que el alumno quiera registrarse en un curso luego de haber visto sus detalles, cuando el alumno seleccione la opción de inscribirse en un curso, entonces la plataforma registrará como inscrito al alumno en el curso y se podrá acceder al contenido de este. <br> <br> **Escenario 2:** El alumno cancela su inscripción en el curso <br> <br> Dado que el alumno ya se inscribió en un curso, y este desee cancelar su inscripción al mismo, cuando el alumno seleccione la opción de cancelar su inscripción al curso, entonces la aplicación removerá el curso de su lista de cursos activos.  |         |
+| HU05 | Ver descripción de la plataforma en la landing page | Como visitante de la landing page quiero visualizar un breve y llamativo resumen del funcionamiento de la plataforma para así tener una mejor idea de los beneficios que me pueda brindar. | **Escenario 1:** El visitante logra conocer el propósito de la aplicación. <br> <br> Dado que el visitante se encuentra viendo el contenido de la landing page, cuando este lea la descripción de la aplicación y de los servicios que se ofrecen, entonces el visitante tendrá una idea clara de cómo la aplicación le puede beneficiar personalmente. <br> <br> **Escenario 2:** El visitante no logra conocer el propósito de la aplicación. <br> <br> Dado que el visitante se encuentra viendo el contenido de la landing page, cuando esté lea la descripción de la aplicación y de los servicios que se ofrecen, y no entienda con exactitud el propósito y los beneficios de la aplicación, entonces el visitante no se verá interesado en la aplicación.|         |
 
 ## 3.3. Impact Mapping. <a name ="3.3.">
 
