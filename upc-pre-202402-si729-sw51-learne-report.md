@@ -132,13 +132,24 @@ Profesor: Mori Paiva, Hugo Allan
 
 ### 1.2.1 Antecedentes y problemática <a name ="1.2.1.">
 
-Al terminar sus estudios secundarios, varios jóvenes no encuentran maneras para poder seguir con sus estudios en instituciones educativas superiores. En el 2022, solo el 30.9% de jóvenes lograron hacer la transición de estudios secundarios a estudios superiores según la Encuesta Nacional de Hogares (Enaho) realizada por el Instituto Nacional de Estadística e Informática (INEI). Las razones del porqué detrás de esta cifra varían, desde la falta de recursos para pagar por una educación de calidad, los pocos cupos que se ofrecen en programas como PRONABEC o en instituciones de educación superior públicas o hasta por la misma necesidad de trabajar a la hora de egresar del colegio. Esto resulta en la escasez de oportunidades en un futuro para las personas que no puedan acceder a ésta en caso de que quieran buscar un trabajo en el que se requiera de una educación superior para postular (Haleem et al., 2022).
-
+**Antecedentes:** 
 
 A medida que pasa el tiempo, las maneras en las cuales se está educando a cualquier tipo de estudiante han ido cambiando y, a su vez, adaptándose a las nuevas necesidades de nuestra actual era digital. Es así como las computadoras o equipos similares pasaron de ser parte de ciertas clases en la malla curricular a ser indispensables para poder desarrollarse plenamente en el ámbito académico. Este cambio de paradigma en la educación moderna se vio acelerado por la pandemia del COVID-19 a inicios del 2020, en donde se puso en evidencia la importancia por parte de cualquier institución educativa superior de poseer la infraestructura necesaria para seguir brindando clases.  
 
 
 Esta tendencia desembocó en el aumento de alumnos matriculados tanto en cursos masivos abiertos en línea (o mejor conocidos como massive open online courses en inglés) de 300,000 a 220 millones desde 2011 hasta 2019 como en modalidades de aprendizaje a distancia en universidades tradicionales en un 92% en el 2020 (Diaz-Infante et al., 2022). Además, se vieron a gran escala los beneficios de las tecnologías de aprendizaje virtual que van desde la mejora de la interacción de los alumnos con las clases hasta la mejora de acceso a nuevas herramientas de aprendizaje para personas que no tienen los recursos para pagar una educación formal tradicional (Haleem et al., 2022).
+
+
+**Problemática:**
+
+* ¿Qué?: El problema radica en la necesidad de herramientas alternativas para el aprendizaje autónomo que, además de contar con recursos educativos de calidad, también brinde la oportunidad de interactuar y de aprender con tutores a su disposición. 
+* ¿Quién?: Los principales afectados son personas que no tienen recursos necesarios para aprender por medios de educación superior (universidades o institutos) junto a los mismos estudiantes de dichas instituciones que requieran de conocimiento extra para desempeñarse mejor en sus estudios. 
+* ¿Por qué?: La principal causa de esta problemática es la falta de herramientas virtuales que puedan brindarle al alumno tanto herramientas y material de calidad como el acompañamiento especializado de un tutor durante su periodo de aprendizaje. Esto puede impedir el desarrollo tanto profesional como laboral de varias personas que no tienen un acceso ideal a recursos educativos. 
+* ¿Dónde?: Es un desafío que se presenta a un nivel global, más aún cuando se trata de comunidades o regiones con recursos limitados o con acceso restringido a educación de alta calidad. 
+* ¿Cuándo?: Este problema se puede dar a lo largo de la vida de un estudiante, ya que siempre va a necesitar expandir y actualizar sus conocimientos. 
+* ¿Cómo?: Esta situación es consecuencia tanto de un modelo educativo que no se ha adaptado para el uso eficiente de nuevas tecnologías, como de la falta de promoción de nuevas herramientas virtuales que puedan ayudar con la distribución de la educación a más personas. 
+* ¿Cuánto?: A varias empresas de diferentes rubros les está costando encontrar personal calificado para sus puestos de trabajo, lo cual podría resultar en la disminución de la productividad y hasta pérdidas económicas (Diaz-Infante et al., 2022). 
+
 
 
 ### 1.2.2 Lean UX Process. <a name ="1.2.2.">
